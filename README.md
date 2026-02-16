@@ -15,7 +15,7 @@ IP Scout is a high-performance network scanner for Windows that provides compreh
 
 ## Installation
 
-1. Download the latest release from the [Releases]([../../releases](https://github.com/BentendoYT/IP-Scout/releases)) page.
+1. Download the latest release from the [Releases](https://github.com/BentendoYT/RDPQuickConnect/releases) page.
 2. Extract the archive to your desired location.
 3. Run `IPScout.exe`.
 
