@@ -16,8 +16,7 @@ IP Scout is a high-performance network scanner for Windows built with .NET Frame
 ## Installation
 
 1. Download the latest release from the [Releases](../../releases) page.
-2. Extract the archive to your desired location.
-3. Run `IPScout.exe`.
+2. Run the installer (`IP-ScoutSetup.exe`) and follow the instructions.
 
 ## Usage
 
