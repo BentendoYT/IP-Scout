@@ -1,0 +1,29 @@
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\IP Scout.exe.config
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\IP Scout.exe
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\IP Scout.pdb
+C:\Users\carst\source\repos\IP Scout\IP Scout\obj\Debug\IP Scout.csproj.AssemblyReference.cache
+C:\Users\carst\source\repos\IP Scout\IP Scout\obj\Debug\IP_Scout.Form1.resources
+C:\Users\carst\source\repos\IP Scout\IP Scout\obj\Debug\IP_Scout.Properties.Resources.resources
+C:\Users\carst\source\repos\IP Scout\IP Scout\obj\Debug\IP Scout.csproj.GenerateResource.cache
+C:\Users\carst\source\repos\IP Scout\IP Scout\obj\Debug\IP Scout.csproj.CoreCompileInputs.cache
+C:\Users\carst\source\repos\IP Scout\IP Scout\obj\Debug\IP Scout.exe
+C:\Users\carst\source\repos\IP Scout\IP Scout\obj\Debug\IP Scout.pdb
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Buffers.dll
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.IO.Pipelines.dll
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Memory.dll
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Text.Json.dll
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Buffers.xml
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.IO.Pipelines.xml
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Memory.xml
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Text.Json.xml
+C:\Users\carst\source\repos\IP Scout\IP Scout\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\carst\source\repos\IP Scout\IP Scout\obj\Debug\IP Scout.csproj.Up2Date
