@@ -1,7 +1,7 @@
 > [!WARNING]
 > **This repository is no longer maintained.**
 >  
-> Development has moved to [Parrot IP Scanner](https://github.com/BentendoYT/Parrot-IP-Scanner)
+> Development has moved to [Parrot IP Scanner](https://github.com/BentendoYT/Parrot-IP-Scanner).
 
 --- 
 
