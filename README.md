@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository is no longer maintained.**
+>  
+> Development has moved to [Parrot IP Scanner](https://github.com/BentendoYT/Parrot-IP-Scanner)
+
+--- 
+
 # <img width="2471" height="394" alt="IP_Scout_github" src="https://github.com/user-attachments/assets/5ee653eb-3359-405e-bf5e-223881b559ad" />
 
 
